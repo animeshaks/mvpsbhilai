@@ -1,4 +1,4 @@
 <?php
 	$sitename="mvpsbhilai.com";
-	$base_url="http://localhost/mvpsbhilai/";
+	$base_url="https://mvpsbhilai.herokuapp.com/";
 ?>
